@@ -1,4 +1,4 @@
 Authorized test for CrowdStrike recon detection.
 Domains: fm.com, fmglobal.com
-This repository references fmglobal.com for an authorized security monitoring test.
+This repository references fmglobal.com and fm.com for an authorized security monitoring test.
 No secrets. No confidential data.
